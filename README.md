@@ -7,12 +7,19 @@ I love creating impactful applications and sharing knowledge with fellow develop
 🔥 What I Do
 
 Full-Stack Development – MERN Stack (MongoDB, Express.js, React.js, Node.js)
+
 Frontend Wizardry – Tailwind CSS, Next.js, TypeScript, SEO Optimization
+
 Backend & DevOps – Docker, Firebase, API Development
+
 AI & ML – Task Management AI, Speech Recognition, Chatbots
+
 Robotics & Simulation – Self-Balancing Robot, CoppeliaSim, PID & LQR Controllers
+
 Android Development – Kotlin, Jetpack Compose, API Level 25 Apps
+
 Community & Leadership – Vice Lead @ DevSource Club | ACM Student Chapter
+
 Tech Event Organizer – Web Maze (HashTech), The Imitation Game (DSA Club)
 
 🌟 My Impact
